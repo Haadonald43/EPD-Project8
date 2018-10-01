@@ -1,0 +1,51 @@
+body{
+	background-color: #ff4c4c;
+	font-family: tahoma;
+	color: grey;
+	text-align: center;
+}
+
+#topbalk{
+	background-color: grey;
+	position:absolute;
+	padding: 10px;
+	width: 25%;
+	height: 4%;
+	margin-left: 37.5%;
+	margin-top: 5.5%;
+	border-radius: 10px 10px 0px 0px;
+}
+
+#inlog{
+	background-color: white;
+	box-shadow: 15px 15px 15px rgba(0, 0, 0, 0.2);
+	padding: 10px;
+	width: 25%;
+	height: 40%;
+	position: absolute;
+	margin-left: 37.5%;
+	margin-top: 7%;
+	border-radius: 0px 0px 10px 10px;
+}
+
+#name{
+	margin: 10px;
+}
+
+#password{
+	margin: 10px;
+}
+
+#button{
+	background-color: #ff4c4c;
+	color: white;
+	font-family: tahoma;
+	padding: 10px;
+	border: none;
+	border-radius: 10px;
+	margin-top: 10px;
+}
+
+#button:hover{
+	background-color: #3CB371;
+}
